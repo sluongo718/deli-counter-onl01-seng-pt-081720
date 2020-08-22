@@ -16,5 +16,5 @@ def line(array)
 end
 
 def take_a_number(array, person)
-  puts "welcome, #{person}. You are #{}"
+  
 end
