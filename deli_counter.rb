@@ -22,7 +22,7 @@ def take_a_number(array, person)
 end
 
 def now_serving(person)
-  
+  puts "There is nobody waiting to be served!"
 end
 
 
